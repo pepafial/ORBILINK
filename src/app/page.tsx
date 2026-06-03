@@ -18,7 +18,7 @@ export default function Home() {
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Link
-              href="/cadastrar"
+              href="/cadastro"
               className="w-full rounded-lg bg-primary-400 px-8 py-3 text-center text-sm font-semibold text-white transition-colors hover:bg-primary-300 sm:w-auto"
             >
               Começar agora
